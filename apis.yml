@@ -41,7 +41,6 @@ apis:
   - name: HelloSalut
     description: "Get hello translation following user language"
     humanURL: https://fourtonfish.com/project/hellosalut-api/
-    baseURL: https://fourtonfish.com/project/hellosalut-api/
     tags:
       - Geocoding
     properties:
